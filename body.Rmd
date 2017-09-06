@@ -81,7 +81,7 @@ With 'bookdownplus' you can easily:
 
 - classicthesis package by Andre Miede ^[http://www.ctan.org/tex-archive/macros/latex/contrib/classicthesis/]. \m{Users are encouraged to send Prof. Miede a postcard if they like this package. He has received 417 postcards by 2017-04-30.}
 
-As some codes in 'bookdownplus' were collected long time ago, and some might be re-used and re-re-used many time before apprearing in 'bookdownplus', I might miss some citations. It would be appreciated if you find them and let me know.
+As some codes in 'bookdownplus' were collected long time ago, and some might be re-used and re-re-used many time before appearing in 'bookdownplus', I might miss some citations. It would be appreciated if you find them and let me know.
 
 # Quick Start {#quick_start}
 
